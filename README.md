@@ -1,6 +1,6 @@
 <!-- 🌸 Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F08CAE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Irma+Barrios;Full+Stack+Developer;+Multi+Media+Artist;Game+Dev+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=F08CAE&center=true&vCenter=true&width=600&lines=Hey!+I'm+Irma+;Full+Stack+Developer;+Multi+Media+Artist;Game+Dev+Enthusiast;+Tech+Lover" />
 </h1>
 
 <!-- 🌸 Pastel 8-Bit Banner -->
