@@ -35,6 +35,8 @@
  <img src="https://img.shields.io/badge/Writers_Duet-e6ccff?style=for-the-badge&logo=WritersDuet">
  <img src="https://img.shields.io/badge/Adobe_Photoshop-c2e7ff?style=for-the-badge&logo=adobe&logoColor=ff0000">
   <img src="https://img.shields.io/badge/Canva-ffd6e0?style=for-the-badge&logo=canva&logoColor=339933">
+  <img src="https://img.shields.io/badge/C++-ffd6e0?style=for-the-badge&logo=cplusplus&logoColor=00000">
+  <img src="https://img.shields.io/badge/Python-ffd6e0?style=for-the-badge&logo=python&logoColor=61DAFB">
 </div>
 
 ---
