@@ -120,7 +120,6 @@ Build a fun music player
 
 ## 🎮 Irma Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irmabrr&show_icons=true&theme=default&title_color=FF69B4&icon_color=FF69B4&text_color=000000&bg_color=FFFFFF" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=irmabrr&theme=default&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&bg_color=fff7a3" height="165">
 </p>
 
