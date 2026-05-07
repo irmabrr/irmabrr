@@ -137,7 +137,6 @@ Build a fun music player
   <img src="https://github-profile-trophy.vercel.app/?username=irmabrr&theme=flat&row=1&column=7">
   </p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irmabrr&layout=compact&theme=default&bg_color=FFFFF&title_color=FF69B4&text_color=000000&icon_color=FF69B4&border_color=FFFFF)
 
 --- 
 
